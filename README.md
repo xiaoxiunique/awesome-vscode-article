@@ -10,6 +10,26 @@
 
 <br/>
 
+
+
+## 知乎
+
+- [史上最全vscode配置使用教程](https://zhuanlan.zhihu.com/p/113222681)
+
+- [Visual Studio Code 如何编写运行 C、C++ 程序？](https://www.zhihu.com/question/30315894/answer/154979413) 浏览量：1400901
+
+- [挑把趁手的兵器——VSCode配置C/C++学习环境（小白向）](https://zhuanlan.zhihu.com/p/147366852)
+
+- [如何让 VS Code 更好用10倍？这里有一份VS Code 新手指南](https://zhuanlan.zhihu.com/p/99462672)
+
+- [太赞了，VSCode 上也能画流程图了！](https://zhuanlan.zhihu.com/p/140895359)
+
+- [LeetCode for VS Code: 程序员 Offer 收割利器](https://zhuanlan.zhihu.com/p/56226189)
+
+- [VS Code有哪些奇技淫巧？](https://www.zhihu.com/question/309112157/answer/1636002831)
+
+
+
 ## 安装，配置
 
 - [VSCode 设置中文语言显示](https://blog.csdn.net/qq_30068487/article/details/82589347) 浏览量：425320
